@@ -5,7 +5,7 @@
 /**
  * Contains static methods for working with arrays.
  */
- export default class ArrayUtil {
+export default class ArrayUtil {
   /**
    * Sorts and removes duplicates from the specified array.
    *
